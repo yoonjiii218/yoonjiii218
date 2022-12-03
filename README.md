@@ -1,13 +1,15 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=FAF4C0&height=300&section=header&text=&fontSize=90)
 # Hi there👋
 
 ## 💬Who Am I?
-      게임개발자를 꿈꾸는 
+      게임개발자
 
 ## ✨Skills
 ### - Language
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
 ### - Tools
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
