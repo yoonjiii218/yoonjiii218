@@ -1,8 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FAF4C0&height=300&section=header&text=&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FAF4C0&height=200&section=header&text=&fontSize=50)
 # Hi there👋
-
-## 💬Who Am I?
-      게임개발자
 
 ## ✨Skills
 ### - Language
