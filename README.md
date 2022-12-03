@@ -11,8 +11,10 @@
 ### 1. Good Night
 - ##### 장르: 런앤건
 - ##### 플랫폼: PC
-- ##### 개발툴: <img src="https://img.shields.io/badge/Unity-FFFFFF?style=social&logo=Unity&logoColor=black"/>
+- ##### 개발툴: <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
 - ##### 프로젝트 유형: 개인프로젝트
+- ##### 줄거리: 매일 악몽에 시달리던 주인공이 악몽 속의 악당들을 물리치며 악몽을 이겨내는 이야기
+- ##### 완성본: https://drive.google.com/file/d/1fvbzEANt_uEgjpV-EgIDrpawCn27kMpk/view
 
 ### 2. ERROR
 - ##### 장르: 어드벤처
