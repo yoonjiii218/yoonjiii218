@@ -22,7 +22,7 @@
 - #### 개발툴: <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 - #### 프로젝트 유형: 그룹프로젝트
 - #### 줄거리: 자신이 만들던 게임 속으로 들어간 개발자가 게임 속에서 게임의 오류를 고치는 게임
-- #### 저장소: 
+- #### 저장소: https://github.com/CUK-GAME-ERROR/Game_Error.git
 
 <!--
 **yoonjiii218/yoonjiii218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
