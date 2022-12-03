@@ -9,13 +9,16 @@
 
 ## 🔭Project
 ### 1. Good Night
+- ##### 장르: 런앤건
+- ##### 플랫폼: PC
+- ##### 개발툴: <img src="https://img.shields.io/badge/Unity-FFFFFF?style=social&logo=Unity&logoColor=black"/>
+- ##### 프로젝트 유형: 개인프로젝트
 
-### 2. 잠이안와(UnSleep)
-
-
-## 📖Study
-### 1. 게임프로그래밍
-### 2. 컴퓨터그래픽스
+### 2. ERROR
+- ##### 장르: 어드벤처
+- ##### 플랫폼: PC
+- ##### 개발툴: <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+- ##### 프로젝트 유형: 그룹프로젝트
 
 <!--
 **yoonjiii218/yoonjiii218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
