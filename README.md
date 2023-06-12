@@ -1,20 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FAF4C0&height=200&section=header&text=Hi👋&fontSize=50)
 
-## ✨Skills
-### - Language
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-
-### - Tools
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-
-## 🔭Project
-### 1. Good Night
-- #### 장르: 런앤건
-- #### 플랫폼: PC
-- #### 개발툴: <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
-- #### 프로젝트 유형: 개인프로젝트
-- #### 줄거리: 매일 악몽에 시달리던 주인공이 악몽 속의 악당들을 물리치며 악몽을 이겨내는 게임
-- #### 완성본: https://drive.google.com/file/d/1fvbzEANt_uEgjpV-EgIDrpawCn27kMpk/view
 
 
 <!--
