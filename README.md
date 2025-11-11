@@ -1,16 +1,15 @@
-## Hi there 👋
+ ### 👋 안녕하세요, 상상을 현실로 만드는 개발자입니다!
 
-<!--
-**yoonjiii218/yoonjiii218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+저는 아이디어를 구조화하고, 이를 플레이 가능한 기능으로 만드는 것을 좋아합니다. 단순히 ‘작동하는 코드’보다 **플레이어가 몰입할 수 있는 시스템**을 만드는 것을 목표로 합니다. 
 
-Here are some ideas to get you started:
+#### 🌱 게임 클라이언트 개발자가 되기 위해서 저는
+- 언리얼 엔진으로는 **UI 시스템·인벤토리·전투 로직** 같은 기능을 직접 구현했습니다.
+- 유니티로는 **오브젝트 풀링, 드래그 앤 드롭, 게이지 시스템** 등 다양한 인터랙션을 설계했습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💡개발자로서의 저는
+실패를 더 나은 코드를 만들 수 있는 기회로 받아들입니다.
+효율적이고 유지보수 가능한 코드를 위해 고민하고 노력합니다.
+
+#### 🎮 TMI
+요즘은 할로우 나이트와 버그를 동시에 잡고 있습니다.🪲
+
